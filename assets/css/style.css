@@ -22,3 +22,17 @@ button > .butt-on{
     padding-right: 10px;
     
 }
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+.image-section{
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-color: grey;
+}
+
+.image-section > img{
+    height: 60vh;
+    width: auto;
+}
