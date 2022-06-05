@@ -1,1 +1,24 @@
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
+
+.icon-plus-nav-bar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    border-radius: 40px;
+}
+
+.nav-list{
+    display: flex;
+    background-color: black;  
+    padding-right: 30px;
+}
+.nav-list > .list{
+    color: white;
+    padding-right: 100px;
+}
+button > .butt-on{
+    background-color: white;
+    color: black;
+    padding-right: 10px;
+    
+}
