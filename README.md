@@ -1,5 +1,5 @@
 # myPersonalPortfolio
-# By Elvis Munene![java-app]()
+# By Elvis Munene![java-app](assets/images/personal-portfolio.png)
 ## Table of Content
 * Description.
 * Features
