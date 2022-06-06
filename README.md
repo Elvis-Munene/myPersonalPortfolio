@@ -15,7 +15,7 @@
 This project is a personal web aplication. The web application is designed to showcase my skills to potential clients.
 # Features
 ***
-Users for this application will be able to (p)
+Users for this application will be able to
 1. Contact me for services.
 2. View my profile.
 
@@ -26,7 +26,7 @@ Installation Process
 ***
 *git clone:git@github.com:Elvis-Munene/myPersonalPortfolio.git
 *unzip the file.
-*use a broser to open the file.
+*use a browser to open the file.
 
 # Live Link
 https://elvis-munene.github.io/myPersonalPortfolio/
