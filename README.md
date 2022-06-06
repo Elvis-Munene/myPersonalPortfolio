@@ -1,5 +1,5 @@
 # myPersonalPortfolio
-# By Elvis Munene![java-app](assets/images/Home-page.png)()
+# By Elvis Munene![java-app](assets/images/Home-page.png)
 ## Table of Content
 * Description.
 * Features
