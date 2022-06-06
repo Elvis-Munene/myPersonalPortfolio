@@ -3,7 +3,7 @@
 
 .image-plus-text{
     display: flex;
-    background-color: lightblue;
+    background-color: lightgray;
     height:100vh;
 }
 .back-image img{

@@ -37,14 +37,18 @@
 .content{
     display: flex;
     justify-content: space-around;
+    background-color: lightgrey;
+    height: 100vh;
 }
 .image-section{
     border-top-left-radius: 100px;
     border-bottom-right-radius: 100px;
-    background-color: grey;
+    
+
 }
 
-.image-section > img{
+.image-section img{
     height: 60vh;
     width: auto;
+    border-bottom-left-radius: 100px;
 }
