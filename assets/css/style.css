@@ -12,15 +12,27 @@
     background-color: black;  
     padding-right: 30px;
 }
-.nav-list > .list{
-    color: white;
-    padding-right: 100px;
+.nav-bars ul{
+    list-style: none;
 }
-button > .butt-on{
-    background-color: white;
-    color: black;
+.nav-bars ul li a{
+    padding-right: 100px;
+    color: white;
+}
+.nav-bars ul li a:hover{
+    color: blue;
+
+}
+.nav-bars ul li button{
+    background-color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
     padding-right: 10px;
-    
+    border-radius: 10px;
+}
+.nav-bars ul li button:hover{
+    background-color: white;
 }
 .content{
     display: flex;
