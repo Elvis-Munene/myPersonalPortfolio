@@ -1,0 +1,17 @@
+*{
+    padding: 3vh;
+    border-radius: 5vh;
+}
+.skills-earned{
+    background-color: lightgray;
+    padding-left: 30vh;
+    
+}
+.skills-earned ul{
+    list-style: none;
+    
+}
+.mylanguages {
+    display: flex;
+    flex-direction: row;
+}
